@@ -7,3 +7,4 @@ forge-installer https://github.com/tonii-dev/ToniiAPI/blob/main/forge-1.20.1-47.
 "Croptopia-1.20.1-FORGE-3.0.4.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/Croptopia-1.20.1-FORGE-3.0.4.jar?raw=true
 "CGM-Unofficial-1.4.18+Forge+1.20.1.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/CGM-Unofficial-1.4.18%2BForge%2B1.20.1.jar?raw=true
 "BetterAdvancements-Forge-1.20.1-0.4.2.10.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/BetterAdvancements-Forge-1.20.1-0.4.2.10.jar?raw=true
+"create-1.20.1-0.5.1.j.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/create-1.20.1-0.5.1.j.jar?raw=true
