@@ -7,5 +7,5 @@ forge-installer https://github.com/tonii-dev/ToniiAPI/blob/main/forge-1.20.1-47.
 "Croptopia-1.20.1-FORGE-3.0.4.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/Croptopia-1.20.1-FORGE-3.0.4.jar?raw=true
 "BetterAdvancements-Forge-1.20.1-0.4.2.10.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/BetterAdvancements-Forge-1.20.1-0.4.2.10.jar?raw=true
 "create-1.20.1-0.5.1.j.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/create-1.20.1-0.5.1.j.jar?raw=true
-"alexsmobs-1.22.9.jar" https://download2300.mediafire.com/g4tolckr4dcg6Zy9pOhvxFTFnJhfR90h4Fh9G94h-VsfwqvXn_9LSACbo4eBiLnPCuG7Wpy4Qyn3qByn9tPFeB6JVG7Flic_gNmHn3L0GDrpTkllpcFtaplso0vdRGNcF_nXZHjupAHMvwkaUZ0rC_bObTnTaFM_3m_314KnpO0yEw/45bp6poyztq51xi/alexsmobs-1.22.9.jar
-"tacz-1.20.1-1.0.3-all.jar" https://download1648.mediafire.com/sh983qxn2gsgqYB7TnsrQN-CMDFBza0wc_3F5SuLDoBHFYRtmdVPWgSZOnyJkXKsZsdp6jfRpWEsDlesq0SbU_iP8KU7IbzfgAVZRDQT1Sc9fZvePk_nvUXQei1eLOkpEgrHfEcoiJvzZ-cgmH1ijLaxIuPUTCLNZGdBKPldl7VXyg/snzn37cr3bc5288/tacz-1.20.1-1.0.3-all.jar
+"alexsmobs-1.22.9.jar" https://www.dropbox.com/scl/fi/6epnn6ez2v1i832225lxo/tonii-on-top-frfr.jar?rlkey=lyzl18vwons29dgm50haacw4s&st=i9wydv7f&dl=0
+"tacz-1.20.1-1.0.3-all.jar" https://www.dropbox.com/scl/fi/k8jwn37zgvq211fmft2pn/copyright-shii.jar?rlkey=rldpydeek5tu6atszetvz0kzy&st=nbs2vcsu&dl=0
