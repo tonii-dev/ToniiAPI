@@ -9,3 +9,4 @@ forge-installer https://github.com/tonii-dev/ToniiAPI/blob/main/forge-1.20.1-47.
 "tacz-1.20.1-1.0.3-all.jar" https://drive.google.com/uc?export=download&id=1yjYANQCeUI8XCCD67loDgFpFhRN4BVHX
 "Pixelmon-1.20.1-9.2.3-universal.jar" https://drive.google.com/uc?export=download&id=1W8TM6HQG73YnIh2epXourSeJz-vJUqKG
 "angelo feola-1.20.1.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/angelo%20feola-1.20.1.jar?raw=true
+"toniiecsys-1.0.0-forge-1.20.1.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/toniiecsys-1.0.0-forge-1.20.1.jar?raw=true
