@@ -1,11 +1,11 @@
 latest-launcher-version 1.0
 forge-installer https://github.com/tonii-dev/ToniiAPI/blob/main/forge-1.20.1-47.3.12-installer.jar?raw=true
-23/12/2024
+26/12/2024
 "framework-forge-1.20.1-0.7.12.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/framework-forge-1.20.1-0.7.12.jar?raw=true
 "dynamiclights-1.20.1.2.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/dynamiclights-1.20.1.2.jar?raw=true
 "citadel-2.6.1-1.20.1.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/citadel-2.6.1-1.20.1.jar?raw=true
-"Croptopia-1.20.1-FORGE-3.0.4.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/Croptopia-1.20.1-FORGE-3.0.4.jar?raw=true
 "BetterAdvancements-Forge-1.20.1-0.4.2.10.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/BetterAdvancements-Forge-1.20.1-0.4.2.10.jar?raw=true
 "create-1.20.1-0.5.1.j.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/create-1.20.1-0.5.1.j.jar?raw=true
-"alexsmobs-1.22.9.jar" https://drive.google.com/uc?export=download&id=1w1TipSSL67uyjYqrtkExVQAwys4BkfsG
 "tacz-1.20.1-1.0.3-all.jar" https://drive.google.com/uc?export=download&id=1yjYANQCeUI8XCCD67loDgFpFhRN4BVHX
+"Pixelmon-1.20.1-9.2.3-universal.jar" https://drive.google.com/uc?export=download&id=1W8TM6HQG73YnIh2epXourSeJz-vJUqKG
+"angelo feola-1.20.1.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/angelo%20feola-1.20.1.jar?raw=true
