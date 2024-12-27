@@ -1,4 +1,4 @@
-latest-launcher-version 1.0
+latest-launcher-version 1.0.1
 forge-installer https://github.com/tonii-dev/ToniiAPI/blob/main/forge-1.20.1-47.3.12-installer.jar?raw=true
 26/12/2024
 "framework-forge-1.20.1-0.7.12.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/framework-forge-1.20.1-0.7.12.jar?raw=true
