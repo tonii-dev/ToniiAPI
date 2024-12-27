@@ -12,3 +12,4 @@ forge-installer https://github.com/tonii-dev/ToniiAPI/blob/main/forge-1.20.1-47.
 "toniiecsys-1.0.0-forge-1.20.1.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/toniiecsys-1.0.0-forge-1.20.1.jar?raw=true
 "alexsmobs-1.22.9.jar" https://download2302.mediafire.com/yv13bpujf8egtokkfGdbLkhjLTIkyNQLx5NwecDp4aC6oWK_Jud9Hp3f0aNcTBw6zgtJd3I20Jc0_GgsByu7zHAMHzSHFnZbwvh5UKp5m-zlBc1NM0DUmDujSYr5wGI9EetJk84whnkN7VUB4pRbZfOqs_g1vevvguzYiogtdtrMHg/cb098jfa7bu98y1/tonii-mobs.jar
 "corpse-forge-1.20.1-1.0.19.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/corpse-forge-1.20.1-1.0.19.jar?raw=true
+"OptiFine_1.20.1_HD_U_I6.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/OptiFine_1.20.1_HD_U_I6.jar
