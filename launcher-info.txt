@@ -7,7 +7,6 @@ forge-installer https://github.com/tonii-dev/ToniiAPI/blob/main/forge-1.20.1-47.
 "BetterAdvancements-Forge-1.20.1-0.4.2.10.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/BetterAdvancements-Forge-1.20.1-0.4.2.10.jar?raw=true
 "create-1.20.1-0.5.1.j.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/create-1.20.1-0.5.1.j.jar?raw=true
 "tacz-1.20.1-1.0.3-all.jar" https://drive.google.com/uc?export=download&id=1yjYANQCeUI8XCCD67loDgFpFhRN4BVHX
-"angelo-feola-1.20.1.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/angelo%20feola-1.20.1.jar?raw=true
 "toniiecsys-1.0.0-forge-1.20.1.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/toniiecsys-1.0.0-forge-1.20.1.jar?raw=true
 "corpse-forge-1.20.1-1.0.19.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/corpse-forge-1.20.1-1.0.19.jar?raw=true
 "PixelExtras-1.12.2-2.5.17-universal.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/PixelExtras-1.12.2-2.5.17-universal.jar?raw=true
