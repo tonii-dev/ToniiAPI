@@ -10,6 +10,5 @@ forge-installer https://github.com/tonii-dev/ToniiAPI/blob/main/forge-1.20.1-47.
 "Pixelmon-1.20.1-9.2.3-universal.jar" https://download1514.mediafire.com/og2q4jbkedogUFWABHXaHFCC5jYMcI8l3xzvRiu-XDplcmlDbclfuNdb82DK7XI0UvxrSTsO5okfYnDrlA32rOYJLp5YfbaU90Usf6rbUEL884LfckIt7mKKwglO_FA8pWxS86LUmUH_ARXvKYNhYP4xpVAIDpHbSKhBLZuJ-cFhCA/xy7unb9942gums3/tonii-pixel.jar
 "angelo-feola-1.20.1.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/angelo%20feola-1.20.1.jar?raw=true
 "toniiecsys-1.0.0-forge-1.20.1.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/toniiecsys-1.0.0-forge-1.20.1.jar?raw=true
-"alexsmobs-1.22.9.jar" https://download2302.mediafire.com/yv13bpujf8egtokkfGdbLkhjLTIkyNQLx5NwecDp4aC6oWK_Jud9Hp3f0aNcTBw6zgtJd3I20Jc0_GgsByu7zHAMHzSHFnZbwvh5UKp5m-zlBc1NM0DUmDujSYr5wGI9EetJk84whnkN7VUB4pRbZfOqs_g1vevvguzYiogtdtrMHg/cb098jfa7bu98y1/tonii-mobs.jar
 "corpse-forge-1.20.1-1.0.19.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/corpse-forge-1.20.1-1.0.19.jar?raw=true
 "OptiFine_1.20.1_HD_U_I6.jar" https://github.com/tonii-dev/ToniiAPI/blob/main/OptiFine_1.20.1_HD_U_I6.jar
