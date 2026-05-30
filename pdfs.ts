@@ -32,5 +32,13 @@ export const pdfData: PdfDocument[] = [
     hash: '0x1A2B3C',
     status: 'Decrypted',
     url: 'https://raw.githubusercontent.com/tonii-dev/ToniiAPI/main/guerra%2520civile%2520spagnola.pdf' // example placeholder
+  },
+  {
+    id: 'STO_05',
+    title: 'Seconda guerra mondiale e guerra fredda',
+    subject: 'Storia',
+    hash: '0x1A2B3C',
+    status: 'Decrypted',
+    url: 'https://raw.githubusercontent.com/tonii-dev/ToniiAPI/main/storia%20formattata.pdf' // example placeholder
   }
 ];
