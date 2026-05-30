@@ -16,5 +16,21 @@ export const pdfData: PdfDocument[] = [
     hash: '0x1A2B3C',
     status: 'Decrypted',
     url: 'https://raw.githubusercontent.com/tonii-dev/ToniiAPI/main/LATINO%20-%20MODULO%201.pdf' // example placeholder
+  },
+  {
+    id: 'STO_03',
+    title: 'Dal primo dopoguerra ai totalitarismi',
+    subject: 'Storia',
+    hash: '0x1A2B3C',
+    status: 'Decrypted',
+    url: 'https://raw.githubusercontent.com/tonii-dev/ToniiAPI/main/IL%20NOVECENTO%20BIBBIA.pdf' // example placeholder
+  },
+  {
+    id: 'STO_04',
+    title: 'La guerra civile spagnola',
+    subject: 'Storia',
+    hash: '0x1A2B3C',
+    status: 'Decrypted',
+    url: 'https://raw.githubusercontent.com/tonii-dev/ToniiAPI/main/guerra%2520civile%2520spagnola.pdf' // example placeholder
   }
 ];
