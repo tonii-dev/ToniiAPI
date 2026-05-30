@@ -15,6 +15,6 @@ export const pdfData: PdfDocument[] = [
     subject: 'Latino',
     hash: '0x1A2B3C',
     status: 'Decrypted',
-    url: 'https://raw.githubusercontent.com/tonii-dev/ToniiAPI/main/LATINO%2520-%2520MODULO%25201.pdf' // example placeholder
+    url: 'https://raw.githubusercontent.com/tonii-dev/ToniiAPI/main/LATINO%20-%20MODULO%201.pdf' // example placeholder
   }
 ];
