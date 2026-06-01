@@ -40,5 +40,13 @@ export const pdfData: PdfDocument[] = [
     hash: '0x1A2B3C',
     status: 'Decrypted',
     url: 'https://raw.githubusercontent.com/tonii-dev/ToniiAPI/main/storia%20formattata.pdf' // example placeholder
+  },
+  {
+    id: 'STO_06',
+    title: 'L\'Italia del Dopoguerra e la Prima Repubblica',
+    subject: 'Storia',
+    hash: '0x1A2B3C',
+    status: 'Decrypted',
+    url: 'https://raw.githubusercontent.com/tonii-dev/ToniiAPI/main/L%27Italia%20del%20Dopoguerra%20e%20la%20Prima%20Repubblica.pdf' // example placeholder
   }
 ];
