@@ -48,5 +48,13 @@ export const pdfData: PdfDocument[] = [
     hash: '0x1A2B3C',
     status: 'Decrypted',
     url: 'https://raw.githubusercontent.com/tonii-dev/ToniiAPI/main/L%27Italia%20del%20Dopoguerra%20e%20la%20Prima%20Repubblica.pdf' // example placeholder
+  },
+  {
+    id: 'STO_06',
+    title: '[NOTEBOOKLM] Italia repubblicana ',
+    subject: 'Storia',
+    hash: '0x1A2B3C',
+    status: 'Fatto come INTEGRAZIONE all\' altro PDF',
+    url: 'https://notebooklm.google.com/notebook/c7cc5079-5346-4e70-868f-b49fcfe7031b' // example placeholder
   }
 ];
