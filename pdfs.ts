@@ -10,6 +10,14 @@ export interface PdfDocument {
 // Group your 'maturità' PDFs here
 export const pdfData: PdfDocument[] = [
   {
+    id: 'ITA_01',
+    title: 'Modulo 1 - Preromanticismo, Neoclassicismo e Romanticismo',
+    subject: 'Italiano',
+    hash: '0x1A2B3C',
+    status: 'Decrypted',
+    url: 'https://raw.githubusercontent.com/tonii-dev/ToniiAPI/main/itamodulo1.pdf' // example placeholder
+  },
+  {
     id: 'LAT_01',
     title: 'Modulo 1 - Età giulio-claudia',
     subject: 'Latino',
