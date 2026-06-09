@@ -18,6 +18,14 @@ export const pdfData: PdfDocument[] = [
     url: 'https://raw.githubusercontent.com/tonii-dev/ToniiAPI/main/LATINO%20-%20MODULO%201.pdf' // example placeholder
   },
   {
+    id: 'LAT_02',
+    title: 'Modulo 2 - L\'età dei Flavi',
+    subject: 'Latino',
+    hash: '0x1A2B3C',
+    status: 'Decrypted',
+    url: 'https://raw.githubusercontent.com/tonii-dev/ToniiAPI/main/latinomodulo2.pdf' // example placeholder
+  },
+  {
     id: 'STO_03',
     title: 'Dal primo dopoguerra ai totalitarismi',
     subject: 'Storia',
