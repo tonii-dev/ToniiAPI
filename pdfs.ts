@@ -42,6 +42,14 @@ export const pdfData: PdfDocument[] = [
     url: 'https://raw.githubusercontent.com/tonii-dev/ToniiAPI/main/latinomodulo3.pdf' // example placeholder
   },
   {
+    id: 'LAT_04, LAT_05',
+    title: 'Moduli 4 e 5',
+    subject: 'Latino',
+    hash: '0x1A2B3C',
+    status: 'Decrypted',
+    url: 'https://raw.githubusercontent.com/tonii-dev/ToniiAPI/main/latinomoduli45.pdf' // example placeholder
+  },
+  {
     id: 'STO_03',
     title: 'Dal primo dopoguerra ai totalitarismi',
     subject: 'Storia',
