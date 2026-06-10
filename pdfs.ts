@@ -34,6 +34,14 @@ export const pdfData: PdfDocument[] = [
     url: 'https://raw.githubusercontent.com/tonii-dev/ToniiAPI/main/latinomodulo2.pdf' // example placeholder
   },
   {
+    id: 'LAT_03',
+    title: 'Modulo 3 - L\'età di Nerva e Traiano',
+    subject: 'Latino',
+    hash: '0x1A2B3C',
+    status: 'Decrypted',
+    url: 'https://raw.githubusercontent.com/tonii-dev/ToniiAPI/main/latinomodulo3.pdf' // example placeholder
+  },
+  {
     id: 'STO_03',
     title: 'Dal primo dopoguerra ai totalitarismi',
     subject: 'Storia',
